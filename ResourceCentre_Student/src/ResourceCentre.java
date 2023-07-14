@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 // Jay Sen
-
+// Kami Sama
 public class ResourceCentre {
 
 	public static void main(String[] args) {
