@@ -2,7 +2,9 @@ import java.util.ArrayList;
 // Jay Sen
 // Kami Sama
 //asfar sama
-//Justin L Bozo
+//isaac
+//Justin
+
 public class ResourceCentre {
 
 	public static void main(String[] args) {
